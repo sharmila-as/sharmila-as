@@ -1,8 +1,9 @@
 # 👋 Hi there! I'm Sharmila Devi A S
+<h3 align="center">Passionate FullStack Developer | Python Developer</h3>
 
 Welcome to my GitHub profile!
 
-I'm a passionate developer and tech enthusiast who loves building meaningful and scalable solutions. Whether it's crafting backend APIs, designing user-friendly UIs, or deploying microservices with Kubernetes, I enjoy diving deep into full-stack development projects.
+I'm a passionate developer and tech enthusiast who loves building meaningful and scalable solutions. Whether it's crafting backend APIs or designing user-friendly UIs, I enjoy diving deep into full-stack development projects.
 
 ## 🛠️ Tech Stack
 
