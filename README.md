@@ -36,7 +36,7 @@ I'm a passionate developer and tech enthusiast who loves building meaningful and
 
 ## 📫 Let's Connect
 - **LinkedIn:** [linkedin.com/in/sharmiladevisenthilkumar](https://linkedin.com/in/sharmiladevisenthilkumar)  
-- **Portfolio:** [https://sharmilaprofile.vercel.app/](https://yourwebsite.com](https://sharmilaprofile.vercel.app/)  
+- **Portfolio:** https://sharmilaprofile.vercel.app/
 - **Email:** assharmila01@gmail.com
 
 Thanks for visiting! 🌟
